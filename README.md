@@ -12,3 +12,8 @@ Smart Shopping is a grocery shopping-based app that aims to find total costs of 
 - [Firebase](https://firebase.google.com/) as realtime database to store user's data.
 - [Ruby on Rails](https://rubyonrails.org/) + [Heroku](https://www.heroku.com/) to store and return [Waitrose](https://www.waitrose.com/) and [Morrisons](https://groceries.morrisons.com/webshop/startWebshop.do) products.
 
+## Screenshots
+
+<p align="center">
+  <img width="690" height="315" src="https://i.ibb.co/VxFgpR3/Cattura.jpg">
+</p>
