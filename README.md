@@ -15,5 +15,5 @@ Smart Shopping is a grocery shopping-based app that aims to find total costs of 
 ## Screenshots
 
 <p align="center">
-  <img width="690" height="315" src="https://i.ibb.co/VxFgpR3/Cattura.jpg">
+  <img width="690" height="350" src="https://i.ibb.co/VxFgpR3/Cattura.jpg">
 </p>
