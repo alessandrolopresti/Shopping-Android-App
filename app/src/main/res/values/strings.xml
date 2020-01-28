@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+    <string name="web_client_id">604392726056-qd938dtpht1uops06hftfa3fi92c6gbv.apps.googleusercontent.com</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_for_smart_shopping_on_your_phone">Sign in for smart shopping on your phone</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_yourshopping">Your Shopping</string>
+    <string name="search_recycler_view">Research</string>
+    <string name="search_title">Search Title</string>
+    <string name="description_search">Search Description</string>
+
+    <!--Cloud Vision strings -->
+    <string name="action_settings">Settings</string>
+    <string name="image_details_header">Details:</string>
+    <string name="image_preview_header">Preview:</string>
+    <string name="loading_message">Uploading image. Please wait.</string>
+
+    <string name="dialog_select_prompt">Choose a picture</string>
+    <string name="dialog_select_camera">Camera</string>
+    <string name="dialog_select_gallery">Gallery</string>
+
+    <string name="image_picker_error">Something is wrong with that image. Pick a different one please.</string>
+    <string name="traditional_search">Traditional Search</string>
+    <string name="digit_the_item_name">Digit the item name</string>
+    <string name="add_to_cart">Add to cart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ang_smart_shop">Smart Shopping</string>
+    <string name="ang_general_items">general_items</string>
+    <string name="ang_choose_least_one">Choose at least one items</string>
+    <string name="find_close_market">Find CLose Market</string>
+    <string name="pay">Pay</string>
+    <string name="dsadsaadasd">dsadsaadasd</string>
+    <string name="description">Description</string>
+</resources>

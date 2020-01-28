@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="@drawable/border_ui"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/ang_smart_market"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="asdsadasdasd"
+        android:paddingLeft="20pt"
+        android:textAlignment="viewStart"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title" />
+
+    <TextView
+        android:id="@+id/ang_smart_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20pt"
+        android:text="asdadssadasd"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead.Inverse"
+        android:textColor="@color/colorPrimary" />
+
+    <ImageView
+        android:id="@+id/ang_market_image"
+        android:layout_width="match_parent"
+        android:layout_height="141dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+</LinearLayout>
