@@ -10,5 +10,5 @@ Smart Shopping is a grocery shopping-based app that aims to find total costs of 
 - [Google Cloud Vision API](https://cloud.google.com/vision?hl=it) for pattern recognition tasks.
 - [Tesco API](https://www.tescolabs.com/category/api/) to access information about products.
 - [Firebase](https://firebase.google.com/) as realtime database to store user's data.
-- Ruby on Rails + Heroku to store and return [Waitrose](https://www.waitrose.com/) and [Morrisons](https://groceries.morrisons.com/webshop/startWebshop.do) products.
+- [Ruby on Rails](https://rubyonrails.org/) + [Heroku](https://www.heroku.com/) to store and return [Waitrose](https://www.waitrose.com/) and [Morrisons](https://groceries.morrisons.com/webshop/startWebshop.do) products.
 
